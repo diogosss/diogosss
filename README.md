@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @diogosss
-- 👀 I’m interested in electronics, computer science, machine learning
+- 👋 Hi, I’m Diego
+- 👀 I’m interested in electronics, computer science, machine learning, web development
 - 🌱 I’m currently learning Cybersecurity, Software development, data science, machine learning
 - 💞️ I’m looking to collaborate on electronics and software engineering
 - 📫 How to reach me 
